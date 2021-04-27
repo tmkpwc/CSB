@@ -13,14 +13,33 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nutanix Mittelstandspakete
+   :caption: FILES
    :hidden:
 
-   files/files
-   flow_secure_fiesta/flow_secure_fiesta
-   security/security
-   prismops/prismops_capacity_lab/prismops_capacity_lab
-   prismops/prismops_rightsize_lab/prismops_rightsize_lab
+   2-files/files_deploy/files_deploy
+   2-files/files_smb_share/files_smb_share
+   2-files/files_nfs_export/files_nfs_export
+   2-files/files_file_blocking/files_file_blocking
+   2-files/files_multiprotocol/files_multiprotocol
+   2-files/files_expand_cluster/files_expand_cluster
+   2-files/file_analytics_deploy/file_analytics_deploy
+   2-files/file_analytics_scan/file_analytics_scan
+   2-files/file_analytics_anomaly/file_analytics_anomaly
+      
+.. toctree::
+   :maxdepth: 2
+   :caption: PRISM PRO
+   :hidden:
+
+   3-prismops/prismops_capacity_lab/prismops_capacity_lab
+   3-prismops/prismops_rightsize_lab/prismops_rightsize_lab
+
+.. toctree::
+   :maxdepth: 2
+   :caption: FLOW
+   :hidden:
+
+   4-flow_secure_fiesta/flow_secure_fiesta
 
 .. toctree::
   :maxdepth: 2
