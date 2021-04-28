@@ -2,14 +2,14 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: PoC Infos
+   :caption: Workshop Infos
    :hidden:
 
    1-hpoc/ansprechpartner/ansprechpartner
    1-hpoc/clusteraccess/clusteraccess
-   1-hpoc/clusterdetails/clusterdetails1
-   1-hpoc/clusterdetails/clusterdetails2
-   1-hpoc/clusterdetails/clusterdetails3
+   1-hpoc/clusterdetails1/clusterdetails
+   1-hpoc/clusterdetails2/clusterdetails
+   1-hpoc/clusterdetails3/clusterdetails
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +25,7 @@
    2-files/file_analytics_deploy/file_analytics_deploy
    2-files/file_analytics_scan/file_analytics_scan
    2-files/file_analytics_anomaly/file_analytics_anomaly
-      
+
 .. toctree::
    :maxdepth: 2
    :caption: PRISM PRO
@@ -59,7 +59,7 @@ Herzlich willkommen zum Nutanix Workshop
 
 .. figure:: images/Intro.png
 
-Diese Nutanix PoC Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs,
+Diese Nutanix Workshop Webseite führt Sie Schritt für Schritt durch die verschiedenen Labs,
 sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erhalten.
 
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**

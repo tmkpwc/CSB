@@ -19,8 +19,8 @@ import sphinx_copybutton
 
 # -- Project information -----------------------------------------------------
 
-project = 'Nutanix PoC'
-copyright = '2020, Nutanix Germany GmbH | '
+project = 'Nutanix Workshop'
+copyright = '2021, Nutanix Germany GmbH | '
 author = 'Thomas Pawluc'
 
 

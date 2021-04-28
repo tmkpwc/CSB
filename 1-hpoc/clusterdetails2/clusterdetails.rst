@@ -1,7 +1,7 @@
 .. _clusterdetails:
 
 ------------------------
-HPoC Cluster Details
+HPoC Cluster Details - 2
 ------------------------
 
 Cluster Hardware Details
