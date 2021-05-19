@@ -1,7 +1,7 @@
 .. _clusterdetails:
 
 ------------------------
-HPoC Cluster Details - 1
+HPoC Cluster Details - 4
 ------------------------
 
 Cluster Hardware Details
@@ -27,21 +27,21 @@ Infrastruktur IPs
      - Hypervisors
      - IPMI
    * - **Position A**
-     - 10.55.42.29
-     - 10.55.42.25
-     - 10.55.42.33
+     - 10.55.45.29
+     - 10.55.45.25
+     - 10.55.45.33
    * - **Position B**
-     - 10.55.42.30
-     - 10.55.42.26
-     - 10.55.42.34
+     - 10.55.45.30
+     - 10.55.45.26
+     - 10.55.45.34
    * - **Position C**
-     - 10.55.42.31
-     - 10.55.42.27
-     - 10.55.42.35
+     - 10.55.45.31
+     - 10.55.45.27
+     - 10.55.45.35
    * - **Position D**
-     - 10.55.42.32
-     - 10.55.42.28
-     - 10.55.42.36
+     - 10.55.45.32
+     - 10.55.45.28
+     - 10.55.45.36
 
 
 .. list-table::
@@ -51,13 +51,13 @@ Infrastruktur IPs
   * - Services
     - IP-Adressen
   * - **Cluster virtual IP**
-    - 10.55.42.37
+    - 10.55.45.37
   * - **iSCSI Data Services IP**
-    - 10.55.42.38
+    - 10.55.45.38
   * - **Prism Central**
-    - 10.55.42.39
+    - 10.55.45.39
   * - **Active Directory**
-    - 10.55.42.41
+    - 10.55.45.41
 
 
 Zugangsdaten
@@ -77,13 +77,13 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ADMIN
   * - **Prism Element Web**
     - admin
-    - nx2Tech435!
+    - nx2Tech154!
   * - **Prism Element SSH**
     - nutanix
     - nutanix/4u
   * - **Prism Central Web**
     - admin
-    - nx2Tech435!
+    - nx2Tech154!
   * - **Prism Central SSH**
     - nutanix
     - nutanix/4u
@@ -140,25 +140,25 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - **Sekundäres** Netzwerk
    * - **VLAN**
      - 0
-     - 421
+     - 451
    * - **Netzwerk IP Adresse**
-     - 10.55.42.0
-     - 10.55.42.128
+     - 10.55.45.0
+     - 10.55.45.128
    * - **Netzmaske**
      - 255.255.255.128 (/25)
      - 255.255.255.128 (/25)
    * - **Default Gateway**
-     - 10.55.42.1
-     - 10.55.42.129
+     - 10.55.45.1
+     - 10.55.45.129
    * - **IP Address Management (IPAM)**
      - Aktiviert
      - Aktiviert
    * - **DHCP Pool**
-     - 10.55.42.50  - 125
-     - 10.55.42.132 - 253
+     - 10.55.45.50  - 125
+     - 10.55.45.132 - 253
    * - **Domain**
      - NTNXLAB.local
      - NTNXLAB.local
    * - **DNS**
-     - 10.55.42.41 (DC VM)
-     - 10.55.42.41 (DC VM)
+     - 10.55.45.41 (DC VM)
+     - 10.55.45.41 (DC VM)
