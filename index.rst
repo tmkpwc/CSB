@@ -65,7 +65,7 @@ sodass Sie eine umfassende praktische Einführung in die Nutanix Technologie erh
 **In den Labs werden primär folgende Nutanix Produkte verwendet:**
 
 - Files and File Analytics
-- Prism Pro
 - Flow
+- Prism Pro
 
 **Haben wir Ihr Interesse geweckt? Dann lassen Sie uns beginnen!**
