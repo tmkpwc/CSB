@@ -8,6 +8,7 @@
 #docopt == 0.6.1             # Version Matching. Must be version 0.6.1
 #keyring >= 4.1.1            # Minimum version 4.1.1
 #coverage != 3.5             # Version Exclusion. Anything except v
-sphinxcontrib-fulltoc == 1.2.0
-sphinx-bootstrap-theme == 0.6.0
+#sphinxcontrib-fulltoc == 1.2.0
+#sphinx-bootstrap-theme == 0.7.1
 sphinx_fontawesome
+sphinx-copybutton
